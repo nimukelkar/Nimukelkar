@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning as much as I can.
 - 👯 I’m looking to collaborate for making quality projects.
 - 🥅 2021 Goals: Contribute more to ML/AI and web dev projects.
-- ⚡ Fun fact: I love to play chess and badminton!
+
 
 ### Connect with me:
 <img align="left" alt=" LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
