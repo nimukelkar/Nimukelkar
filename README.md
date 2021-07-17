@@ -28,11 +28,9 @@ Languages and Tools:
 <br />
 <br />
 
-<details>
- 
-  <summary>:zap: GitHub Stats</summary>
+
 
   <img align="left" alt="Nirmayi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nimukelkar&show_icons=true&hide_border=true" />
 
-</details>
+
 
