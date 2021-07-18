@@ -31,6 +31,7 @@ Languages and Tools:
 <br />
 <br />
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nimukelkar&repo=github-readme-stats)](https://github.com/nimukelkar/github-readme-stats)
 
 
   <img align="left" alt="Nirmayi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nimukelkar&show_icons=true&hide_border=true" />
