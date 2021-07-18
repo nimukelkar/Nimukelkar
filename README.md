@@ -1,7 +1,7 @@
 ### Hi there, I'm Nirmayi!! 👋
 ## I'm a Computer Engineering Student at Pune Institute Of Computer Technology
 
-![](https://komarev.com/ghpvc/?username=nimukelkar)
+
 
 
 - 🌱 I’m currently learning as much as I can.
@@ -9,6 +9,7 @@
 - 🥅 2021 Goals: Contribute more to ML/AI and web dev projects.
 
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
 
 
 
