@@ -13,9 +13,9 @@
 
 
 ### Connect with me:
-<img align="left" alt=" LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 
 
 <br />
