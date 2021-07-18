@@ -1,6 +1,9 @@
 ### Hi there, I'm Nirmayi!! 👋
 ## I'm a Computer Engineering Student at Pune Institute Of Computer Technology
 
+![](https://komarev.com/ghpvc/?username=nimukelkar)
+
+
 - 🌱 I’m currently learning as much as I can.
 - 👯 I’m looking to collaborate for making quality projects.
 - 🥅 2021 Goals: Contribute more to ML/AI and web dev projects.
