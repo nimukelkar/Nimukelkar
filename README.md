@@ -8,6 +8,9 @@
 - 👯 I’m looking to collaborate for making quality projects.
 - 🥅 2021 Goals: Contribute more to ML/AI and web dev projects.
 
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
+
 
 ### Connect with me:
 <img align="left" alt=" LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
