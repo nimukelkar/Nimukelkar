@@ -31,12 +31,14 @@ Languages and Tools:
 <br />
 <br />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nimukelkarrepo=github-readme-stats)](https://github.com/nimukelkar/github-readme-stats)
 
 
   <img align="left" alt="Nirmayi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nimukelkar&show_icons=true&hide_border=true" />
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nimukelkar)](https://git.io/streak-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimukelkar)](https://github.com/nimukelkar/github-readme-stats)
+
 
   
   [![Nirmayi Kelkar's github activity graph](https://activity-graph.herokuapp.com/graph?username=nimukelkar)](https://github.com/nimukelkar/github-readme-activity-graph)
