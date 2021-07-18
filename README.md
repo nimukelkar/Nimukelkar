@@ -37,7 +37,8 @@ Languages and Tools:
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nimukelkar)](https://git.io/streak-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimukelkar)](https://github.com/nimukelkar/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimukelkar&layout=compact)](https://github.com/nimukelkar/github-readme-stats)
+
   
 NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
 
