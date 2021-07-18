@@ -8,7 +8,8 @@
 - 👯 I’m looking to collaborate for making quality projects.
 - 🥅 2021 Goals: Contribute more to ML/AI and web dev projects.
 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/nimukelkar/github-readme-quotes)
+
 
 
 
