@@ -34,6 +34,9 @@ Languages and Tools:
 
 
   <img align="left" alt="Nirmayi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nimukelkar&show_icons=true&hide_border=true" />
+  
+  [![Nirmayi Kelkar's github activity graph](https://activity-graph.herokuapp.com/graph?username=nimukelkar)](https://github.com/nimukelkar/github-readme-activity-graph)
+
 
 
 
