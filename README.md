@@ -1,5 +1,7 @@
 ### Hi there, I'm Nirmayi!! 👋
 ## I'm a Computer Engineering Student at Pune Institute Of Computer Technology
+![](https://komarev.com/ghpvc/?username=nimukelkar)
+
 
 
 
