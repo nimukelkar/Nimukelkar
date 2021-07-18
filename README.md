@@ -41,6 +41,8 @@ Languages and Tools:
 
   
 NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
+[![trophy](https://github-profile-trophy.vercel.app/?username=nimukelkar&theme=onedark)](https://github.com/nimukelkar/github-profile-trophy)
+
 
 
   
