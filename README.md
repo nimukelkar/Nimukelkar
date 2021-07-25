@@ -49,7 +49,7 @@ NOTE: Top Languages does not indicate my skill level or anything like that, it's
 
 
 
-  [![Nirmayi Kelkar's github activity graph](https://activity-graph.herokuapp.com/graph?username=nimukelkar)](https://github.com/nimukelkar/github-readme-activity-graph)
+[![Nirmayi Kelkar's github activity graph](https://activity-graph.herokuapp.com/graph?username=nimukelkar&theme=dracula)](https://github.com/nimukelkar/github-readme-activity-graph)
 
 
 
