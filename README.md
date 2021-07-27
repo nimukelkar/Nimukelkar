@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning as much as I can.
 - 👯 I’m looking to collaborate for making quality projects.
-- 🥅 2021 Goals: Contribute more to ML/AI, web dev projects and open source projects.
+- 🥅 2021 Goals: Contribute more to ML/AI, web development projects and open source projects.
 
 
 
