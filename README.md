@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning as much as I can.
+- 🌱 I’m currently interning at Tech Mahindra as a student trainee.
 - 👯 I’m looking to collaborate for making quality projects.
 - 🥅 2021 Goals: Contribute more to ML/AI, web development projects and open source projects.
 
