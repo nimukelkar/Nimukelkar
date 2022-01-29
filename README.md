@@ -7,7 +7,7 @@
 
 
 - 👯 I’m looking to collaborate for making quality projects.
-- 🥅 2021 Goals: Contribute more to ML/AI, web development projects and open source projects.
+- 🥅 2022 Goals: Contribute more to ML/AI, web development projects and open source projects.
 
 
 
